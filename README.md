@@ -11,7 +11,7 @@ Computer Science student currently learning programming and web development.
 
 ## Future Goals
 
-- Backend development
+- Backend and FrontEnd development
 - Web security
 - Systems programming
 
